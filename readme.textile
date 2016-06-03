@@ -42,7 +42,7 @@ bc. <build>
 		<finalName>web</finalName>
 		<plugins>
 			<plugin>
-				<groupId>greensopinion.swagger</groupId>
+				<groupId>com.greensopinion.swagger</groupId>
 				<artifactId>jaxrs-gen</artifactId>
 				<version>1.3.0</version>
 				<configuration>
